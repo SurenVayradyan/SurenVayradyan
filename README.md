@@ -14,6 +14,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![DataLens](https://img.shields.io/badge/datalens-F2C811?style=for-the-badge&logo=datalens&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-F2C811?style=for-the-badge&logo=Tableau&logoColor=black)
 
 <h3 align="center">Statistics</h3>
 
